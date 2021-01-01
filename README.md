@@ -1,4 +1,4 @@
-# AWS-Certified-Cloud-Practitioner-Notes
+# AWS Certified Cloud Practitioner Essentials - E-Learning Notes
 Notes compiled based on AWS E-Learning lessons and transcripts. 
 Source: AWS E-Learning Classroom
 
