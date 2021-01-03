@@ -2,7 +2,7 @@
 Notes compilation based on AWS E-Learning lessons and transcripts. 
 Source: AWS E-Learning Classroom
 
-Link to Medium article: 
+Link to Medium article: https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249
 
 **List of modules**:  
 Module 1 - Introduction to Amazon Web Services  
