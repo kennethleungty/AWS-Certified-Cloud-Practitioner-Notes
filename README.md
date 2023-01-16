@@ -17,5 +17,3 @@ Module 9 - Migration and Innovation
 Module 10 - The Cloud Journey  
 Module 11 - AWS Certified Cloud Practitioner Basics  
 Module 12 - Final Assessment  
-
-Last updated: 1st January 2021
