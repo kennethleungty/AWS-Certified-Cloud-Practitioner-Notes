@@ -1,5 +1,5 @@
 # AWS Certified Cloud Practitioner Essentials - E-Learning Notes
-Notes compilation based on AWS E-Learning lessons and transcripts. 
+Notes compilation based on AWS E-Learning lessons and transcripts.
 Source: AWS E-Learning Classroom
 
 **Check out the accompanying guide for 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks: https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249**
