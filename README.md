@@ -17,3 +17,6 @@ Module 9 - Migration and Innovation
 Module 10 - The Cloud Journey  
 Module 11 - AWS Certified Cloud Practitioner Basics  
 Module 12 - Final Assessment  
+
+___
+**Check out this GitHub repo if you are also looking for study notes for the Microsoft Azure AI Engineer Associate examination: https://github.com/kennethleungty/Azure-AI-Engineer-Associate-Notes**
